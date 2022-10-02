@@ -1,0 +1,8 @@
+bin/
+obj/
+cmake-build*/
+.idea/
+Debug/
+*.sln
+.vscode/
+*.cbp
